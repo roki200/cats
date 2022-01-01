@@ -11,5 +11,4 @@ multidict==4.7.5
 pytz==2019.3
 requests==2.23.0
 yarl==1.4.2
-© 2022 GitHub, Inc.
-Terms
+
